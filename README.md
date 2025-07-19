@@ -24,8 +24,8 @@ You'll need **Python 3.7+** installed on your system.
 1.  **Clone this repository** (or create the `app.py` file manually):
 
     ```bash
-    git clone <repository-url> # If applicable, replace <repository-url> with your repository's URL
-    cd <your-project-directory> # Navigate into your project's directory
+    git clone https://github.com/wajidkorkani/Fast-Api.git
+    cd https://github.com/wajidkorkani/Fast-Api.git
     ```
 
 2.  **Create a virtual environment** (recommended for managing dependencies):
