@@ -25,7 +25,7 @@ You'll need **Python 3.7+** installed on your system.
 
     ```bash
     git clone https://github.com/wajidkorkani/Fast-Api.git
-    cd https://github.com/wajidkorkani/Fast-Api.git
+    cd Fast-Api/Src
     ```
 
 2.  **Create a virtual environment** (recommended for managing dependencies):
@@ -55,7 +55,7 @@ You'll need **Python 3.7+** installed on your system.
 
 ## Running the Application
 
-1.  **Save the code** below into a file named `app.py` in your project directory:
+1.  **Save the code** below into a file named `main.py` in your project directory:
 
     ```python
     from fastapi import FastAPI
